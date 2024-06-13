@@ -1,3 +1,2 @@
-## Apps I use for Steam Deck
+## Steam Deck setup
 
-SGDBoop - Automatically applies assets to Steam Library from StreamGridDB website. [https://www.steamgriddb.com/boop]
